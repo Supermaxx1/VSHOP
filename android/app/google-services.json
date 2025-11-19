@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "460793056283",
+    "project_id": "vshop-ab506",
+    "storage_bucket": "vshop-ab506.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:460793056283:android:e9211c85bc8997f1363cbe",
+        "android_client_info": {
+          "package_name": "com.example.vshop"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxQopU5wuXrFRDekj18xWhYIZEAktOZt8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
